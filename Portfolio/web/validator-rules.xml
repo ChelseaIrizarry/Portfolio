@@ -29,7 +29,7 @@
       <plug-in className="org.apache.struts.validator.ValidatorPlugIn">
         <set-property property="pathnames" 
                       value="/org/apache/struts/validator/validator-rules.xml,
-                             /WEB-INF/validation.xml"/>
+                             /validation.xml"/>
       </plug-in>
 
    These are the default error messages associated with
