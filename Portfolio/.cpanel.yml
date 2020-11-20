@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/chelse10/public_html/
-    - cp -r * $DEPLOYPATH
