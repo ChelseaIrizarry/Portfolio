@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/chelse10/public_html/
-    - cp /web -r $DEPLOYPATH
+    - /bin/cp -r * $DEPLOYPATH
